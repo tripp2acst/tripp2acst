@@ -1,25 +1,70 @@
-<h1 align="center">Hi there 👋</h1>
+<h1 align="center">Hi, I'm Tripp 👋</h1>
+<h3 align="center">Applied AI Specialist @ ACS Technologies</h3>
 
 <p align="center">
-  Welcome to my corner of GitHub.
+  <a href="https://www.acst.com"><img src="https://img.shields.io/badge/ACS%20Technologies-Applied%20AI-2563EB?style=for-the-badge" alt="ACS Technologies" /></a>
+  <a href="mailto:trippli@acst.com"><img src="https://img.shields.io/badge/Email-trippli%40acst.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://komarev.com/ghpvc/?username=tripp2acst&style=for-the-badge&color=2563EB" alt="Profile views" />
 </p>
 
-<!-- Snake animation eating my contribution graph (auto-updates daily) -->
+---
+
+### 🧠 About me
+
+- 🤖 I'm an **Applied AI Specialist at [ACS Technologies](https://www.acst.com)**, where we build software that helps churches and faith-based organizations focus on their mission instead of their admin.
+- 🛠️ I turn LLMs and agentic tooling into real, shipped product features — prototyping, evaluating, and putting AI to work where it actually moves the needle.
+- 💡 What I love about the work: getting to apply cutting-edge AI to a mission that matters, and seeing tools I build land in the hands of real ministries.
+- 🌱 Always experimenting with the latest in the AI/agent space.
+- 💬 Ask me about applied AI, agents, and building with LLMs.
+
+<!-- Edit any of the lines above — they're my best guesses, make them yours -->
+
+### 🧰 Tech I work with
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Anthropic%20Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
+</p>
+
+<!-- Swap these badges for your actual stack -->
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tripp2acst&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Tripp's GitHub stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tripp2acst&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=tripp2acst&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</p>
+
+### 📈 Activity
+
+<!--
+  REPOBEATS — one-time setup (≈10s):
+  1. Go to https://repobeats.axiom.co
+  2. Sign in with GitHub, pick a repo to track
+  3. Copy the embed URL it gives you and paste it below, replacing the placeholder hash
+-->
+<p align="center">
+  <img src="https://repobeats.axiom.co/api/embed/REPLACE_WITH_YOUR_HASH.svg" alt="Repobeats analytics image" />
+</p>
+
+---
+
+### 🐍 Watch the snake eat my contributions
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tripp2acst/tripp2acst/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tripp2acst/tripp2acst/output/github-contribution-grid-snake.svg" />
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/tripp2acst/tripp2acst/output/github-contribution-grid-snake.svg" />
 </picture>
-
----
-
-### About me
-
-- 🔭 Add a line about what you're working on
-- 🌱 Add what you're learning
-- 💬 Ask me about ...
-
-<!--
-  This is your GitHub profile README. Edit freely!
-  The snake above regenerates every 24h via .github/workflows/snake.yml
--->
