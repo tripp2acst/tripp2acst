@@ -51,15 +51,3 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=tripp2acst&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
-
-### Activity
-
-<!--
-  REPOBEATS — one-time setup (≈10s):
-  1. Go to https://repobeats.axiom.co
-  2. Sign in with GitHub, pick a repo to track
-  3. Copy the embed URL it gives you and paste it below, replacing the placeholder hash
--->
-<p align="center">
-  <img src="https://repobeats.axiom.co/api/embed/REPLACE_WITH_YOUR_HASH.svg" alt="Repobeats analytics image" />
-</p>
